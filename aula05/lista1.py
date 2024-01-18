@@ -1,0 +1,10 @@
+num = [ 9, 23, 4, 53, 10, 5]
+print(num)
+num.append(500)
+print(num)
+num.insert(0, 0)
+print(num)
+num.insert(0,-1)
+print(num)
+num.insert(0,-2)
+print(num)
