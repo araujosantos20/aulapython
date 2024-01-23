@@ -4,3 +4,4 @@ conta = CC()
 
 conta.abrirConta(35, 12, "123456-10", "Marcos", 3500, 1500)
 
+conta.sacar(4000)
